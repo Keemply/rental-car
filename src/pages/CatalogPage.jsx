@@ -1,7 +1,9 @@
+import Header from "../components/Header/Header";
+
 export default function CatalogPage() {
   return (
-    <div>
-      <h1>Catalog</h1>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
